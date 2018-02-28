@@ -4,5 +4,5 @@
 print "hello world"
 print "new"
 print "git"
-print "test auto"
+#print "test auto"
 
