@@ -3,6 +3,6 @@
 
 print "hello world"
 print "new"
-print "git"
+#print "git"
 #print "test auto"
 
